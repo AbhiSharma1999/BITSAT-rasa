@@ -2,7 +2,6 @@ session_config:
   session_expiration_time: 0
   carry_over_slots_to_new_session: true
 intents:
-<<<<<<< HEAD
 - ask_date
 - goodbye
 - greet
@@ -13,7 +12,6 @@ intents:
 - ask_mail
 - ask_edit
 - foreign_citizens
-=======
 - ask_iterations
 - ask_fee
 - thank
@@ -25,7 +23,6 @@ intents:
 - ask_edit
 - foreign_citizens
 
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
 responses:
   utter_dates:
   - text: BITSAT is scheduled to be held from 16th to 23rd September.
@@ -50,22 +47,18 @@ responses:
 actions:
 - utter_bio
 - utter_dates
-<<<<<<< HEAD
 - utter_edit
 - utter_fee
 - utter_foreign
-=======
 - utter_fee
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
 - utter_goodbye
 - utter_greet
 - utter_iterations
 - utter_mail
 - utter_welcome
-<<<<<<< HEAD
 version: '2.0'
 =======
 - utter_foreign
 - utter_edit
 
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
+
