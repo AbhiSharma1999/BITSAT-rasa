@@ -128,7 +128,6 @@
     - utter_bio
 * thank
     - utter_welcome
-<<<<<<< HEAD
 
 ## interactive_story_1
 * greet
@@ -205,5 +204,4 @@
     - utter_fee
 * goodbye
     - utter_goodbye
-=======
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
+
