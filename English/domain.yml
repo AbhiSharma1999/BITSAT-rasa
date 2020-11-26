@@ -57,7 +57,7 @@ actions:
 - utter_mail
 - utter_welcome
 version: '2.0'
-=======
+
 - utter_foreign
 - utter_edit
 
