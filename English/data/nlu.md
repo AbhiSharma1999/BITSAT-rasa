@@ -42,10 +42,7 @@
 - When will BITSAT be held?
 - and when will BITSAT be held?
 - when is bitsat
-<<<<<<< HEAD
 - bitsat when
-=======
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
 
 ## intent:ask_iterations
 - How many iterations are there?
