@@ -102,7 +102,6 @@
     - utter_iterations
 * thank
     - utter_welcome
-<<<<<<< HEAD
 
 * greet
     - utter_greet
@@ -110,5 +109,4 @@
     - utter_dates
 * goodbye
     - utter_goodbye
-=======
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
+
