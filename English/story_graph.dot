@@ -3,7 +3,6 @@ digraph  {
 "-1" [class=end, fillcolor=red, fontsize=12, label=END, style=filled];
 1 [class=active, fontsize=12, label=action_session_start];
 2 [class=active, fontsize=12, label=utter_greet];
-<<<<<<< HEAD
 3 [class=active, fontsize=12, label=utter_dates];
 4 [class=active, fontsize=12, label=utter_goodbye];
 5 [class="intent dashed active", label="  ?  ", shape=rect];
@@ -19,7 +18,6 @@ digraph  {
 6 -> 2  [class=active, key=0];
 7 -> 3  [class=active, key=0];
 8 -> 4  [class=active, key=0];
-=======
 3 [class=active, fontsize=12, label=utter_fee];
 4 [class=active, fontsize=12, label=utter_iterations];
 5 [class=active, fontsize=12, label=utter_welcome];
@@ -39,5 +37,4 @@ digraph  {
 8 -> 3  [class=active, key=0];
 9 -> 4  [class=active, key=0];
 10 -> 5  [class=active, key=0];
->>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
 }
