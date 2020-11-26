@@ -1,0 +1,71 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+<<<<<<< HEAD
+- ask_date
+- goodbye
+- greet
+- ask_iterations
+- ask_fee
+- thank
+- bio_eligibility
+- ask_mail
+- ask_edit
+- foreign_citizens
+=======
+- ask_iterations
+- ask_fee
+- thank
+- greet
+- ask_date
+- bio_eligibility
+- goodbye
+- ask_mail
+- ask_edit
+- foreign_citizens
+
+>>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
+responses:
+  utter_dates:
+  - text: BITSAT is scheduled to be held from 16th to 23rd September.
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How can I assist you?
+  utter_iterations:
+  - text: There are four iterations for seat allocation.
+  utter_welcome:
+  - text: You are welcome!
+  utter_edit:
+  - text: The link for editing the application form will be made available on the website during 15th May 2020 to 20th May 2020 and you can edit the required fields during this period.  No email queries will be entertained in this regard.
+  utter_mail:
+  - text: The application cannot be sent by email/post. If you get any specific error while applying, please send an email to bitsat2020@pilani.bits-pilani.ac.in for help with details and queries will also be answered by the phone number- 022-61306284 during Monday-Friday 9.00am till 6.00pm.
+  utter_bio:
+  - text: Candidates can write BITSAT 2020 with Physics, Chemistry and Biology in 10+2. However, they will be eligible to apply only for the B. Pharm program. They will not be eligible for any other first degree program of the Institute.
+  utter_fee:
+  - text: The fee details for 2020-21 are yet to be finalized. The details will be available at BITS admission website by 25th July 2020.
+  utter_foreign:
+  - text: Candidates who have citizenship other than INDIA can apply under International students admissions scheme.
+actions:
+- utter_bio
+- utter_dates
+<<<<<<< HEAD
+- utter_edit
+- utter_fee
+- utter_foreign
+=======
+- utter_fee
+>>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
+- utter_goodbye
+- utter_greet
+- utter_iterations
+- utter_mail
+- utter_welcome
+<<<<<<< HEAD
+version: '2.0'
+=======
+- utter_foreign
+- utter_edit
+
+>>>>>>> 125b41a05056b6484179108e7f36ba15b95ad52c
