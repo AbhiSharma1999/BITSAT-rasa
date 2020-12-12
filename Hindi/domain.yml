@@ -10,15 +10,15 @@ actions:
 - utter_mail
 - utter_welcome
 intents:
-- ask_date
-- goodbye
-- greet
-- ask_fee
-- ask_edit
 - thank
-- bio_eligibility
-- ask_iterations
+- ask_edit
+- ask_fee
+- greet
 - foreign_citizens
+- goodbye
+- bio_eligibility
+- ask_date
+- ask_iterations
 - ask_mail
 responses:
   utter_bio:

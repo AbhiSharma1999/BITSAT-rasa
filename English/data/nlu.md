@@ -53,7 +53,7 @@
 - how many iterations will happen before final admission?
 - okay, how many iterations?
 
-## intent:edit_form
+## intent:ask_edit
 - How to edit my application form?
 - Is there a way to edit my application after submission?
 - I made errors in my form, what now?

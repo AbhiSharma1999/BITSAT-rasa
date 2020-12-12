@@ -205,3 +205,25 @@
 * goodbye
     - utter_goodbye
 
+
+## interactive_story_1
+* greet
+    - utter_greet
+* bio_eligibility
+    - utter_bio
+* ask_fee
+    - utter_fee
+* goodbye
+    - utter_goodbye
+
+## interactive_story_1
+* greet
+    - utter_greet
+* ask_edit
+    - utter_edit
+* ask_fee
+    - utter_fee
+* foreign_citizens
+    - utter_foreign
+* thank
+    - utter_welcome
